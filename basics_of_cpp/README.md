@@ -60,4 +60,3 @@ This folder contains 10 C++ programs covering fundamental concepts:
 - Use appropriate data types for efficiency and correctness.
 - Structure code for readability and maintainability.
 
-Explore each program for practical examples and modify them to test different scenarios.
